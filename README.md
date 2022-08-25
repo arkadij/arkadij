@@ -1,2 +1,4 @@
-webdev / berlin
+
+Angular
+front-end webdev / berlin
 
